@@ -1,0 +1,9 @@
+C:\PROJE\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe.config
+C:\PROJE\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe
+C:\PROJE\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.pdb
+C:\PROJE\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.Form1.resources
+C:\PROJE\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.Properties.Resources.resources
+C:\PROJE\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csproj.GenerateResource.Cache
+C:\PROJE\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.exe
+C:\PROJE\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.pdb
+C:\PROJE\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csprojResolveAssemblyReference.cache

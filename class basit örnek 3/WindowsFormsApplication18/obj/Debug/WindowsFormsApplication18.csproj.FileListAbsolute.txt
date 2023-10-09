@@ -1,0 +1,8 @@
+C:\PROJE\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe.config
+C:\PROJE\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe
+C:\PROJE\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.pdb
+C:\PROJE\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Form1.resources
+C:\PROJE\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Properties.Resources.resources
+C:\PROJE\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csproj.GenerateResource.Cache
+C:\PROJE\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.exe
+C:\PROJE\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.pdb
